@@ -1,7 +1,6 @@
  Hi, I'm Aljaž 👋
 
-Software Engineer with hands-on experience in full-stack and backend development, specializing in **NestJS**, **Flutter**, and modern web technologies. Passionate about building scalable systems and exploring technologies that will shape the future — particularly **Web3** and **blockchain**.
-
+Software Engineer with hands-on experience in full-stack and backend development, specializing in **NestJS**, **Flutter**, and modern web technologies. Passionate about building scalable systems and exploring technologies that will shape the future.
 ---
 
 ## 🛠️ Tech Stack
