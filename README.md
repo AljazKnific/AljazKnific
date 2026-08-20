@@ -15,7 +15,7 @@ Software Engineer with hands-on experience in full-stack and backend development
 `SQL` `MongoDB`
 
 **Tools & Concepts**
-`Docker` `Git` `REST APIs` `Clean Architecture` `DDD` `Agile` `OOP` `Hadoop`
+`Docker` `Git` `REST APIs` `Clean Architecture` `DDD` `Agile` `OOP` `Hadoop` `Supabase` 
 
 ---
 ## 🎓 Education
